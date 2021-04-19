@@ -23,7 +23,7 @@
 
 <div>
   <a href = "mailto: caiodavid111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5522998538279&text=Hello!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4CA143??style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caiodaviddesouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5522992757280&text=Hello!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
