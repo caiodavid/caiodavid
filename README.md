@@ -1,13 +1,7 @@
 ## Hi 👋, I'm Caio
 ### A passionate developer from Brazil
 
-
-<div>
-  <a href="https://github.com/caiodavid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodavid&layout=compact&langs_count=8&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodavid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
- <br>
+## :computer: Languages and Tools
 <div style="display: inline_block">
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -18,8 +12,15 @@
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
+ <br>
+<div>
+  <a href="https://github.com/caiodavid">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodavid&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodavid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
   
-##
+## :calling: Connect with me
 
 <div>
   <a href = "mailto: caiodavid111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
