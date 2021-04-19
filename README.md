@@ -1,5 +1,11 @@
-## Hi 👋, I'm Caio
-### A passionate developer from Brazil
+# Hi 👋, I'm Caio
+
+## :man::hearts::computer: A passionate developer
+- Open to work!
+- Learning next.js and typescript
+- Perfecting React/Node.js
+- Computer Engineering 9/10
+#Never stop learning
 
 ## :computer: Languages and Tools
 <div style="display: inline_block">
