@@ -1,4 +1,4 @@
-# Hi 👋, I'm Caio
+# Hi, I'm Caio
 
 ## :computer: A passionate developer who never stops learning
 - Learning next.js and typescript
